@@ -173,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -303,7 +303,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
@@ -561,7 +561,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 80px 0;
+  padding: 60px 0;
   overflow: hidden;
 }
 
@@ -715,19 +715,21 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/jardin/photo16.jpg") fixed center center;
   background-size: cover;
-  padding: 120px 0;
+  padding: 240px 0;
 }
 
 .cta h3 {
   color: #fff;
-  font-size: 28px;
+  font-size: 32px;
   font-weight: 700;
 }
 
 .cta p {
   color: #fff;
+  font-size: 22px;
+  font-weight: 500;
 }
 
 .cta .cta-btn {
